@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adeel!</h1>
-<h3 align="left">Connect with me: https://www.linkedin.com/in/adeelchaudhary1/</h3>
 <p align="left">
 </p>
 
